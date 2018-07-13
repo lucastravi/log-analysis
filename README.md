@@ -18,10 +18,10 @@ The **Logs Analysis Project** is a Python 2.7 application that get and print out
 9. In the LogsAnalysisProject directory, run "python log_analysis.py".
 
 ### Files contained:
-1. Vagrantfile (root folder)
-2. log_analysis.py (LogsAnalysisProject folder)
-3. output.txt (LogsAnalysisProject folder)
-4. newsdata.sql (LogsAnalysisProject folder)
+1. Vagrantfile
+2. log_analysis.py
+3. output.txt
+4. newsdata.sql
 
 ### Views created
 1 - av: author views
