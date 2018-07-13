@@ -12,10 +12,10 @@ The **Logs Analysis Project** is a Python 2.7 application that get and print out
 5. From the command line (or Git Bash interface), run "vagrant up" in the same directory that contains the Vagrantfile;
 6. The Vagrantfile is already configured to run this application, wait some minutes for the downloads and installations;
 7. In the same directory, run "vagrant ssh" to login in the Linux system;
-8. Go to the directory containing the application running "$ cd /vagrant/LogsAnalysisProject";
+8. Go to the directory containing the application running "$ cd /vagrant/loganalysis";
 9. Run "psql -d news -f newsdata.sql" to log into the database and import the tables from newsdata.sql file;
 10. Quit psql running "\q";
-9. In the LogsAnalysisProject directory, run "python log_analysis.py".
+9. In the loganalysis directory, run "python log_analysis.py".
 
 ### Files contained:
 1. Vagrantfile
