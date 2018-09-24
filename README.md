@@ -1,7 +1,5 @@
 # Logs Analysis Project - Lucas Travi
 
-# Version: 0.1
-
 The **Logs Analysis Project** is a Python 2.7 application that get and print out the results for the three most searched articles, the most viewed authors and the days on which the requests led to more than 1% of errors.
 
 ### Running the Application
